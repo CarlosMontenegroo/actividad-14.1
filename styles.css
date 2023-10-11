@@ -1,0 +1,27 @@
+.carousel {
+    text-align: center;
+    padding-bottom: 4%;
+}
+.list-group {
+    margin: 0;
+    padding-right: 2%;
+    padding-left: 12%;
+    float: left;
+}
+.col {
+    text-align: center;
+    font-size: small;
+}
+#titulo {
+    text-align: center;
+    padding-bottom: 4%;
+}
+.nav-link {
+    color: #fff; 
+}
+
+.navbar-brand {
+    color: #fff; 
+}
+
+
